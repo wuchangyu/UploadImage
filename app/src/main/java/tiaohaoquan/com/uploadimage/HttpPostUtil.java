@@ -22,7 +22,7 @@ import java.util.UUID;
  * Created by wuchangyu222 on 2015/12/22.
  */
 public class HttpPostUtil {
-    URL url;//url
+    URL url;//urlfffff
     HttpURLConnection conn;
     String boundary = UUID.randomUUID().toString();
     Map<String, String> textParams = new HashMap<String, String>();
